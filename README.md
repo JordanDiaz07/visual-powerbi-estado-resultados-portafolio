@@ -112,4 +112,10 @@ Pruebas con `node:test` · Git
 
 ---
 
-**Autor:** Jordan Díaz · [GitHub](https://github.com/JordanDiaz07)
+## Contacto
+
+**Jordan Díaz** · Analista de datos y desarrollo de soluciones
+
+- LinkedIn: [linkedin.com/in/jordandiax](https://www.linkedin.com/in/jordandiax/)
+- GitHub: [JordanDiaz07](https://github.com/JordanDiaz07)
+- Teléfono: +507 63965192
